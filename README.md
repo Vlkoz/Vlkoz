@@ -1,3 +1,6 @@
+## You can find me here:
+[![Telegram](https://img.shields.io/badge/-telegram-229ED9?style=social&logo=telegram)](https://t.me/slam_vk) 
+[![linkedin](https://img.shields.io/badge/-linkedin-229ED9?style=social&logo=linkedin)](https://www.linkedin.com/in/vladimir-kozlov-953751248)
 ## About me
 I am engaged in full-cycle analysis from preprocessing raw data using Python (pandas, numpy, matplotlib, seaborn, scipy) to building auto-updated dashboards in Tableau for business units.
 
@@ -10,6 +13,3 @@ In my opinion, non-standard tasks provide the opportunity to get any interesting
 I devote my free time to self-education in product analytics. I have successfully completed specialization «Data Analyst» in data science school «Karpov Courses».
 ## My technology stack:
 ![Stack](https://github.com/Vlkoz/Vlkoz/blob/main/assets/stack.png)
-## You can find me here:
-[![Telegram](https://img.shields.io/badge/-telegram-229ED9?style=social&logo=telegram)](https://t.me/slam_vk) 
-[![linkedin](https://img.shields.io/badge/-linkedin-229ED9?style=social&logo=linkedin)](https://www.linkedin.com/in/vladimir-kozlov-953751248)
